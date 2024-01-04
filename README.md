@@ -1,1 +1,1 @@
-# jdbi_issue_2582
+See https://github.com/jdbi/jdbi/issues/2582
